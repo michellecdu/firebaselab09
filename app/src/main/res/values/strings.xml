@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">firebaselab09</string>
+    <string name="auth_failed">Auth Failed</string>
+</resources>
